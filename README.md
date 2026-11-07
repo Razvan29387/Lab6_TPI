@@ -1,1 +1,1 @@
-In cadrul acestui laborator am realizat un APIRestful cu FastApi care valideaza automat datele unor senzori, stocheaza datele in siguranta fara a permite datele duplicate si permite interogarea acestora de catre utilizatori.
+In cadrul acestui laborator am realizat un APIRestful cu FastApi care valideaza automat datele unor senzori, stocheaza datele in siguranta fara a permite datele duplicate si permite interogarea acestora de catre utilizatori. Am mai realizat si teste asupra metpdelor get si post folosind libraria pytest.
